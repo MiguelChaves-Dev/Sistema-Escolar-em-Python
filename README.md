@@ -3,7 +3,7 @@
 Sistema desenvolvido em Python para gerenciamento escolar, permitindo cadastrar alunos, visualizar informações e salvar dados utilizando arquivos JSON.
 
 ---
-##Futuras Atualizações
+## Futuras Atualizações
 - Sistema de Boletins
 - Impedir Alunos Repetidos
 - Criar uma interface FrontEnd para o projeto
