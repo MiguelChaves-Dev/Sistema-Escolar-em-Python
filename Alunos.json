@@ -1,7 +1,12 @@
 [
     {
+        "Nome": "Miguel de Carvalho Chaves",
+        "Classe": "3 Ano Medio",
+        "Idade": 18
+    },
+    {
         "Nome": "Ana Livia Germano dos Santos Souza",
-        "Classe": "3 Ano Médio",
+        "Classe": "3 ano",
         "Idade": 18
     }
 ]
