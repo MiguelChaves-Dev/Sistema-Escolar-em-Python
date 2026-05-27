@@ -23,6 +23,7 @@ Sistema desenvolvido em Python para gerenciamento escolar, permitindo cadastrar 
 - Menu interativo no terminal
 - Manipulação de arquivos
 - Organização de informações escolares
+- Criação e visualização de Boletins
 
 ---
 
