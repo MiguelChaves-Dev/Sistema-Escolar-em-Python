@@ -5,9 +5,13 @@ Sistema desenvolvido em Python para gerenciamento escolar, permitindo cadastrar 
 ---
 ## Atualização 1.1 - Funções!
 - Mudei a organização do codigo, deixando toda parte "suja" dele em outro arquivo, facilitando a organização do projeto!
+
+## Atualização 1.2 - Boletins!
+-Adicionei a função de inserir notas em um boletim e de visualizar o boletim.
+-Mudei a organização do arquivo .JSON para que não aja conflito de manipulação.
   
 ## Futuras Atualizações
-- Sistema de Boletins
+- Corrigir problemas relacionados a falta de conteúdos e a erros de escrita
 - Impedir Alunos Repetidos
 - Criar uma interface FrontEnd para o projeto
 
